@@ -1,0 +1,27 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Libraries
+*.a
+*.lib
+*.so
+*.dll
+
+# Build directories (common names)
+build/
+bin/
+dist/
+out/
+
+# IDE/Editor files (optional, adjust as needed)
+.vscode/
+*.user
+*.suo
+
+draft.cpp
